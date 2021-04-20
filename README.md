@@ -5,11 +5,11 @@ A general keep all for some info and files related to the hardware side of what 
 
 I have made some of my designs open source, here is a list of them:
 
-### OSHWA Certified Designs:
+#### OSHWA Certified Designs:
 - [TS100 Flex-C-Friend (IE000001)](https://github.com/witnessmenow/ts100-flex-c-friend) - An external module for the TS100 soldering iron that allows you to power the Iron from a USB-C Power Delivery PSU, including compatible battery banks.
 - [D1 Mini TFT Shield (IE000001)](https://github.com/witnessmenow/D1-Mini-TFT-Shield) - A shield for the ESP8266 D1 mini with a 240x240 colour TFT display.
 
-### Non Certified:
+#### Non Certified:
 - [D1 Mini HID Shield](https://github.com/witnessmenow/D1-Mini-HID-Shield) - A shield for the ESP8266 D1 mini that allows it to be used as a USB humnan interface device. Based on a CH552.
 - [Nunchuck Breakout Designs](https://github.com/witnessmenow/Nunchuck-Arduino) - Boards for connecting a Nintendo Wii Nunchuck to.
      - D1 Mini Nunhuck Shield - A shield for the ESP8266 D1 mini
