@@ -1,5 +1,9 @@
 # Side Mounted LED Tester Board
 
+![image](https://user-images.githubusercontent.com/1562562/116828351-12930080-ab96-11eb-8102-9219d0f20d12.png)
+![image](https://user-images.githubusercontent.com/1562562/116828356-19ba0e80-ab96-11eb-8ee9-e8891640c7af.png)
+
+
 I designed this board to test using side mounted LEDs for shining through the Fr4 material of the PCB, it got a decent response on twitter with a lot of questions, so I thought this might help! The board was never intended to be for anything other than personal use so it's kind of a mess, but hopefully it will be useful to someone!
 
 The board has 12 Charlieplexed LEDs connected to a header pin (8x1, but 2 pins per connection). Check out [this video for more information on Charlieplexing](https://www.youtube.com/watch?v=b44VGTaCSk8)
@@ -11,6 +15,9 @@ My main contribution to the open source community to date has been my Arduino li
 [If you enjoy my work, please consider becoming a Github sponsor!](https://github.com/sponsors/witnessmenow/)
 
 ## LEDs Used:
+
+![image](https://user-images.githubusercontent.com/1562562/116828376-39e9cd80-ab96-11eb-90bb-3c067b115a52.png)
+
 
 The LEds I used are 3.2x1.5mm side mounted LEDs, but LCSC filter for these absolutely sucks, so here is a list of all the ones I have tried in descending order of how bright I thought they were (brightest first)
 
