@@ -25,10 +25,10 @@ The LEds I used are 3.2x1.5mm side mounted LEDs, but LCSC filter for these absol
 | ----------------------------- | ------ | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------- |
 | TOGIALED TJ-S3210SW5TGLC2G-A5 | Green  | [LCSC](https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_TOGIALED-TJ-S3210SW5TGLC2G-A5_C273630.html) | Very good                                         |
 | TOGIALED TJ-S3210SW5TGLC2R-A5 | Red    | [LCSC](https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_TOGIALED-TJ-S3210SW5TGLC2R-A5_C273626.html) | Very good                                         |
-| TOGIALED TJ-S3210SW5TGLC0A-A5 | Orange | [LCSC](https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_TOGIALED-TJ-S3210SW5TGLC0A-A5_C273627.html) | Decent, Pretty similar colour to above Red though |
+| TOGIALED TJ-S3210SW5TGLC0A-A5 | Orange | [LCSC](https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_TOGIALED-TJ-S3210SW5TGLC0A-A5_C273627.html) | Decent, Pretty similar colour to above Red though. Not on tree photo |
 | TOGIALED TJ-S3210SW5TGLC6B-A5 | Blue   | [LCSC](https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_TOGIALED-TJ-S3210SW5TGLC6B-A5_C273631.html) | OK                                                |
 | TOGIALED TJ-S3210SW5TGLC9Y-A5 | Yellow | [LCSC](https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_TOGIALED-TJ-S3210SW5TGLC9Y-A5_C273628.html) | Not great                                         |
-| Lite-On LTST-S110KSKT         | Yellow | [LCSC](https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Lite-On-LTST-S110KSKT_C115449.html)         | Not as bright as the TOGIALED one                 |
+| Lite-On LTST-S110KSKT         | Yellow | [LCSC](https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Lite-On-LTST-S110KSKT_C115449.html)         | Not as bright as the TOGIALED one. Not on tree photo                 |
 | EKINGLUX E6C1204CWAY1UDA      | White  | [LCSC](https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_EKINGLUX-E6C1204CWAY1UDA_C375483.html)      | Not impressive                                    |
 
 ## Open Source
