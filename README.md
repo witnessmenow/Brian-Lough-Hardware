@@ -20,6 +20,8 @@ I have made some of my designs open source, here is a list of them:
   - Simple Nunchuck Breakout - A board that breaks out the I2C pins of the nunchuck to header pins.
 - [D1 Mini Test Jig](https://github.com/witnessmenow/D1-Mini-Testing-Jig) - A design for creating a test jig for D1 Mini style shields.
 - [Side Mounted LED Tester](Hardware/Side%20Mounted%20LED%20Tester) - A design for testing shining reverse mounted LEDs through a PCB
+- Adafruit Feather compatible designs
+  - [Huzzah32 Debug Shield](/Hardware/Feather/Huzzah32%20Debug%20Shield) - Can be used to debug ESP32 code, [See video for more info.](https://www.youtube.com/watch?v=TivyIFF-dzw)
 
 ### Help Support what I do!
 
