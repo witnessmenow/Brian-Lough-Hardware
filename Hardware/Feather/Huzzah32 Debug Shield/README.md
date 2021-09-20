@@ -1,6 +1,6 @@
 # Feather Huzzah32 Debug Shield
 
-A shield to allow for easy connection to the ESP-Prog board to allow for debugging of ESP32 code using platform.io
+A shield to allow for easy connection to the ESP-Prog board to allow for debugging of ESP32 code using platform.io. [See video for more info.](https://www.youtube.com/watch?v=TivyIFF-dzw)
 
 **Note:** This is only compatible with the Huzzah32, it will not work with any other feathers.
 
