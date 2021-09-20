@@ -4,6 +4,8 @@ A shield to allow for easy connection to the ESP-Prog board to allow for debuggi
 
 **Note:** This is only compatible with the Huzzah32, it will not work with any other feathers.
 
+This board was designed using EasyEDA and the project can be found [here](https://easyeda.com/ecenuig/huzzah32-debug-breakout)
+
 ## Required Additional Hardware
 
 On top of the BOM(which is one part), you will need the following
@@ -19,3 +21,7 @@ On top of the BOM(which is one part), you will need the following
 - [12p & 16p Female headers](https://www.adafruit.com/product/2886) - Useful to use as a socket for removing the Feather from the board.
 
 \* = Affiliate
+
+## License
+
+This board is licensed under the CERN Open Hardware License V1.2. Details of the license can be found in license.md at the root of the repo.
