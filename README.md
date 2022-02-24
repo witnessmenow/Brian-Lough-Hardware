@@ -9,7 +9,8 @@ I have made some of my designs open source, here is a list of them:
 #### OSHWA Certified Designs:
 
 - [TS100 Flex-C-Friend (IE000001)](https://github.com/witnessmenow/ts100-flex-c-friend) - An external module for the TS100 soldering iron that allows you to power the Iron from a USB-C Power Delivery PSU, including compatible battery banks.
-- [D1 Mini TFT Shield (IE000001)](https://github.com/witnessmenow/D1-Mini-TFT-Shield) - A shield for the ESP8266 D1 mini with a 240x240 colour TFT display.
+- [D1 Mini TFT Shield (IE000002)](https://github.com/witnessmenow/D1-Mini-TFT-Shield) - A shield for the ESP8266 D1 mini with a 240x240 colour TFT display.
+- [ESP32 Trinity (IE000004)](https://github.com/witnessmenow/ESP32-Trinity) - An ESP32 devboard for connecting to HUB75 Matrix panels
 
 #### Non Certified:
 
@@ -31,24 +32,23 @@ My main contribution to the open source community to date has been my Arduino li
 
 ## Where to Buy?
 
-I sell on my own Tindie store, but I also work with some resellers which may work out better for you depending on location and postage costs.
+My Tindie store is closed indefinitely (for more information you can check out [this video](https://www.youtube.com/watch?v=SZ2qgSj0Ets))
 
-- EU
-  - [My Tindie Store](https://www.tindie.com/stores/brianlough/) (ships from Ireland) - All Products.
-- United States
-  - **TH3D Studio**
-    - [Power BLoughR](https://www.th3dstudio.com/product/power-blough-r-pi-usb-power-blocker/)
-  - **Acrobotic Amazon Store**
-    - [I2S Matrix Shield](https://amzn.to/3cWisq7)
-    - [ESP32 Matrix Shield](https://amzn.to/2PHhm8L)
-    - [Power BLoughR (2 pack)](https://amzn.to/3wzKqzG)
-  - **Cyber Circuit City**
-    - [I2S Matrix Shield](https://shop.cybercitycircuits.com/products/i2s-esp32-matrix-shield)
-    - [Power BLoughR](https://shop.cybercitycircuits.com/products/power-blough-r?_pos=1&_sid=97c77d70e&_ss=r)
+My products are available from the following resellers:
+
 - United Kingdom
+  - **Eplop (Colin Hickey)**
+    - [Eplop.co.uk - Most products](https://store.eplop.co.uk/product-category/makers/brian-lough/)
+    - [Colin's Ebay store - Better for EU folk as VAT is sorted at checkout](https://www.ebay.co.uk/sch/plop999/m.html?_nkw=&_armrs=1&_ipg=&_from=)
   - **Pimoroni**
     - [TS100 Flex-C-Friend](https://shop.pimoroni.com/products/ts100-flex-c-friend)
     - [Power BLoughR (Blue version - Lead free)](https://shop.pimoroni.com/products/power-blough-r)
-  - **Eplop (Colin Hickey)**
-    - [I2S Matrix Shield](https://store.eplop.co.uk/product/esp32-i2s-matrix-shield/)
-    - [Power BLoughR](https://store.eplop.co.uk/product/power-blough-r/)
+- United States
+  - **TH3D Studio**
+    - [Power BLoughR](https://www.th3dstudio.com/product/power-blough-r-pi-usb-power-blocker/)
+- Australia
+  - **Unexpected Maker**
+    - [ESP32 Trinty](https://unexpectedmaker.com/shop/esp32-trinity)
+- China
+  - **Makerfabs**
+    - [ESP32 Trinty](https://www.makerfabs.com/esp32-trinity.html) - Available here at a reduced price. Makerfabs also sell the panels that have been tested with the Trinity
