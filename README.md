@@ -22,6 +22,7 @@ I have made some of my designs open source, here is a list of them:
 - [Side Mounted LED Tester](Hardware/Side%20Mounted%20LED%20Tester) - A design for testing shining reverse mounted LEDs through a PCB
 - Adafruit Feather compatible designs
   - [Huzzah32 Debug Shield](/Hardware/Feather/Huzzah32%20Debug%20Shield) - Can be used to debug ESP32 code, [See video for more info.](https://www.youtube.com/watch?v=TivyIFF-dzw)
+- [The Oopsy Daisey](Hardware/Oopsie-Daisey) - A level shifter for use with Hub75 panels
 
 ### Help Support what I do!
 
@@ -31,20 +32,12 @@ My main contribution to the open source community to date has been my Arduino li
 
 ## Where to Buy?
 
-I sell on my own Tindie store, but I also work with some resellers which may work out better for you depending on location and postage costs.
-
-- EU
-  - [My Tindie Store](https://www.tindie.com/stores/brianlough/) (ships from Ireland) - All Products.
+- China (ships world wide)
+  - **Makerfabs**
+    - [ESP32 Trinity](https://www.makerfabs.com/esp32-trinity.html) - Makerfabs also sell the panels that have been tested with the Trinity.
 - United States
   - **TH3D Studio**
     - [Power BLoughR](https://www.th3dstudio.com/product/power-blough-r-pi-usb-power-blocker/)
-  - **Acrobotic Amazon Store**
-    - [I2S Matrix Shield](https://amzn.to/3cWisq7)
-    - [ESP32 Matrix Shield](https://amzn.to/2PHhm8L)
-    - [Power BLoughR (2 pack)](https://amzn.to/3wzKqzG)
-  - **Cyber Circuit City**
-    - [I2S Matrix Shield](https://shop.cybercitycircuits.com/products/i2s-esp32-matrix-shield)
-    - [Power BLoughR](https://shop.cybercitycircuits.com/products/power-blough-r?_pos=1&_sid=97c77d70e&_ss=r)
 - United Kingdom
   - **Pimoroni**
     - [TS100 Flex-C-Friend](https://shop.pimoroni.com/products/ts100-flex-c-friend)
